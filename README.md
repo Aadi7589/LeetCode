@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Aadi7589/LeetCode/tree/master/0183-customers-who-never-order) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aadi7589/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aadi7589/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
