@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0136-single-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0680-valid-palindrome-ii) |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
