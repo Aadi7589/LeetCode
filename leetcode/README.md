@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0136-single-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [4256-construct-uniform-parity-array-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
