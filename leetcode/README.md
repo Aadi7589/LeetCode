@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
@@ -47,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
