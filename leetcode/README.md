@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
