@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0680-valid-palindrome-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
