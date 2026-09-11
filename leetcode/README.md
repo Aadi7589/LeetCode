@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
