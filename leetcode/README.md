@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -72,8 +74,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
 <!---LeetCode Topics End-->
