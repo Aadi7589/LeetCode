@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0050-powx-n) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0050-powx-n) |
 <!---LeetCode Topics End-->
