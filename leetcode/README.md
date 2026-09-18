@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0125-valid-palindrome) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Aadi7589/LeetCode/tree/master/LeetCode/0680-valid-palindrome-ii) |
 ## Math
 |  |
